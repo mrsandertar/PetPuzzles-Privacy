@@ -8,6 +8,8 @@ Languages:
 - Español
 - Português
 - Italiano
+- Français
+- Deutsch
 
 Published with GitHub Pages at:
 
